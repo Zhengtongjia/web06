@@ -1,0 +1,59 @@
+o99o@charset 'utf-8';
+body{
+	font-size:16px;
+	color:darkorange;
+	
+}
+h1{
+	font-family: '方正姚体，黑体，宋体';
+	font-size:40px;
+	font-style:oblique;
+	color:darkolivegreen;
+	text-align: center;
+}
+h2{
+	font-family: '黑体';
+	font-size:28px;
+	font-style: normal;
+	color: #099;
+}
+h3{
+	line-height: 2em;
+	color: indianred;
+}
+.nav{
+		background-color: #9F0;
+		margin-right: 15%;
+	margin-left: 15%;
+		text-align: center;
+		font-size:18px;
+			}
+.copyright{
+		text-align: center;
+		border-bottom: 10px;
+		}
+	
+div{
+	width:0;
+	height:0;
+	border: 10px solid transparent;
+	border-top-color :#333;
+	
+}
+#container{	
+	      width: 80%;
+			margin:0 auto;
+			padding:5px 20px;
+	border:10px dotted #4F326C;
+	min-height: 1350px;
+	border-radius: 40px;
+		}
+ul{
+	padding: 20px;
+	border: 1px solid #CCC;
+}
+li{
+	height: 240px;
+	
+	border-bottom: 1px dotted #DDD;
+}

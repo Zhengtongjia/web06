@@ -1,0 +1,24 @@
+[1010/211724.104:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_a47e9dab-6848-49e5-a552-f388270d45bc.log: 系统找不到指定的文件。 (0x2)
+[1010/211724.106:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/133101.435:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_d0ffeff8-ed3d-4867-887c-34be730aa6d9.log: 系统找不到指定的文件。 (0x2)
+[1011/133101.435:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/141810.290:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_520c66f4-fcc0-45e8-b381-2889a205c396.log: 系统找不到指定的文件。 (0x2)
+[1011/141810.290:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/150029.667:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_0b9a06b2-2deb-4032-bd85-b7106c914d3e.log: 系统找不到指定的文件。 (0x2)
+[1011/150029.668:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/150822.810:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_9cf2f7e8-2cb2-42b8-b7f8-ddc54e393b98.log: 系统找不到指定的文件。 (0x2)
+[1011/150822.811:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/155820.192:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_7a909626-ddfc-4bf5-9acc-2baa5628b88a.log: 系统找不到指定的文件。 (0x2)
+[1011/155820.193:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/160154.276:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_97a9dd44-24fe-4b9d-84b9-22f110b4b6ae.log: 系统找不到指定的文件。 (0x2)
+[1011/160154.277:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/160414.257:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_15c7d90b-d8e5-4e66-ba20-13c71d54a6ac.log: 系统找不到指定的文件。 (0x2)
+[1011/160414.257:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/160427.596:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_9c491132-1907-445f-8517-7826c01d43af.log: 系统找不到指定的文件。 (0x2)
+[1011/160427.597:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/160914.611:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_5f512601-1609-4eea-9393-276a0ed30307.log: 系统找不到指定的文件。 (0x2)
+[1011/160914.612:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/162454.086:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_ae90d4dc-21cc-4d4f-90a1-cabb6a66c4c6.log: 系统找不到指定的文件。 (0x2)
+[1011/162454.087:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
+[1011/170939.362:ERROR:file_io_win.cc(145)] CreateFile C:\Users\lenovo\AppData\Local\2345Explorer\User Data\Crashpad\reports\98-FA-9B-1D-0A-18_ddb215ab-0b7b-4ba1-adef-df2bbf8ae52b.log: 系统找不到指定的文件。 (0x2)
+[1011/170939.363:ERROR:http_transport_win.cc(185)] GetBytesBuffer failed
